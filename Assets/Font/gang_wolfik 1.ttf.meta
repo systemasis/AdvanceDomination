@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a93d793a18ccd5043aacf6d18d8c172c
+timeCreated: 1488631223
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gang Wolfik
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 747f9099328127844adbfc4dd30b7fe3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

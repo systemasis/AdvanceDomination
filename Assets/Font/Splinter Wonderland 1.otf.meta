@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 4b48149516459264dba13faaaf03f13b
+timeCreated: 1488631219
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Splinter Wonderland
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 26a5f34457b82454a902b5db67f3b765, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

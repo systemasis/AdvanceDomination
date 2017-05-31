@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6babc849e5f2e8e40b01a0007e8ded39
+timeCreated: 1488631220
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Make Juice
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5296c35057b4dea4da78b902a070f403, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

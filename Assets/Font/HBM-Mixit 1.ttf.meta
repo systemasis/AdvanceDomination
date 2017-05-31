@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 12bf981d2de9bee4d81227b6958ff6a0
+timeCreated: 1488631216
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Mixit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bb71e202f1599384bb987e455433e02a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

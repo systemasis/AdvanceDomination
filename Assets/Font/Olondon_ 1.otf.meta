@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 524ef6be168796645967962344f827b9
+timeCreated: 1488631219
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Old London
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a75a002ad8c36ed439cb2834dde3801e, type: 3}
+  - {fileID: 12800000, guid: b1a607ad33662bb47895d00fdf102f37, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

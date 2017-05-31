@@ -1,0 +1,28 @@
+<<<<<<< .mine
+fileFormatVersion: 2
+guid: 36c4be60dbabdf34aacfcc4ce559f5d8
+timeCreated: 1490991657
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+||||||| .r0
+=======
+fileFormatVersion: 2
+guid: 40e492fa0f83a884e9a09417d7ba4170
+timeCreated: 1490784933
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> .r193

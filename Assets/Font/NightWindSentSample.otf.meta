@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cff236f533b72ef4483d2eef3ea33d64
+timeCreated: 1488630842
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Night Wind Sent Sample
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 81494703469b06f49860f8cec176eb37, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

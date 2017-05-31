@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5104d1fca3eff434883e0b804c01738e
+timeCreated: 1488631219
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Amontillado
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 85d664f7e3685b64ca653f83e5fe1bc9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

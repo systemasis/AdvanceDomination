@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 31dae35b6815b57409ec3c43261dc6df
+timeCreated: 1488631218
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Avengeance Heroic Avenger
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 20cbf516ebddf024a962ad2ecda9c9b9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

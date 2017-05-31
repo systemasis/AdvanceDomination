@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b8ecb0d06b32bff4f9557558891b7d0c
+timeCreated: 1488631224
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gloss And Bloom
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c72e9c59bfc65254984f85eaa67b8e18, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
